@@ -8,7 +8,7 @@ internal class Program
     private static void Main(string[] args)
     {
 
-        string connectionString = DBPropertyUtil.GetConnectionString("db.properties");
+        string connectionString = DBPropertyUtil.GetConnectionString();
 
         IFinanceRepository financeRepository = new FinanceRepositoryImpl(connectionString);
         bool exit = false;

@@ -12,7 +12,7 @@ namespace Tests_Library
         public void Setup()
         {
             // You can initialize objects here
-            string connectionString = DBPropertyUtil.GetConnectionString("db.properties");
+            string connectionString = DBPropertyUtil.GetConnectionString();
 
             
             _repo = new FinanceRepositoryImpl(connectionString);

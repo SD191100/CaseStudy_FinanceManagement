@@ -124,3 +124,14 @@ C:\Users\shiva\source\repos\FinanceManagementSystem\FinanceApp\obj\Debug\net8.0\
 C:\Users\shiva\source\repos\FinanceManagementSystem\FinanceApp\obj\Debug\net8.0\FinanceApp.pdb
 C:\Users\shiva\source\repos\FinanceManagementSystem\FinanceApp\obj\Debug\net8.0\FinanceApp.genruntimeconfig.cache
 C:\Users\shiva\source\repos\FinanceManagementSystem\FinanceApp\obj\Debug\net8.0\ref\FinanceApp.dll
+C:\Users\shiva\source\repos\FinanceManagementSystem\FinanceApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\shiva\source\repos\FinanceManagementSystem\FinanceApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shiva\source\repos\FinanceManagementSystem\FinanceApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\shiva\source\repos\FinanceManagementSystem\FinanceApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\shiva\source\repos\FinanceManagementSystem\FinanceApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shiva\source\repos\FinanceManagementSystem\FinanceApp\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\shiva\source\repos\FinanceManagementSystem\FinanceApp\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\shiva\source\repos\FinanceManagementSystem\FinanceApp\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\shiva\source\repos\FinanceManagementSystem\FinanceApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\shiva\source\repos\FinanceManagementSystem\FinanceApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\shiva\source\repos\FinanceManagementSystem\FinanceApp\obj\Debug\net8.0\FinanceApp.sourcelink.json

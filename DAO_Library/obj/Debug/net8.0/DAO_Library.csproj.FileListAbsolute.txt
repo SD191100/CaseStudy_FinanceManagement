@@ -36,3 +36,4 @@ C:\Users\shiva\source\repos\FinanceManagementSystem\DAO_Library\obj\Debug\net8.0
 C:\Users\shiva\source\repos\FinanceManagementSystem\DAO_Library\obj\Debug\net8.0\refint\DAO_Library.dll
 C:\Users\shiva\source\repos\FinanceManagementSystem\DAO_Library\obj\Debug\net8.0\DAO_Library.pdb
 C:\Users\shiva\source\repos\FinanceManagementSystem\DAO_Library\obj\Debug\net8.0\ref\DAO_Library.dll
+C:\Users\shiva\source\repos\FinanceManagementSystem\DAO_Library\obj\Debug\net8.0\DAO_Library.sourcelink.json
