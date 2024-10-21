@@ -1,4 +1,4 @@
-﻿using DAO_Library;
+using DAO_Library;
 using Entity_Library;
 using Exception_Library;
 using Utility_Library;
@@ -16,15 +16,25 @@ internal class Program
         while (!exit)
         {
             // Display menu options to the user
-            Console.WriteLine("\n--- Finance Management System ---");
-            Console.WriteLine("1. Add User");
-            Console.WriteLine("2. Add Expense");
-            Console.WriteLine("3. Delete User");
-            Console.WriteLine("4. Delete Expense");
-            Console.WriteLine("5. Update Expense");
-            Console.WriteLine("6. View All Expenses for a User");
-            Console.WriteLine("7. View Expense Categories");
-            Console.WriteLine("8. Exit");
+            Console.WriteLine("\n--------------------------------------- Finance Management System ----------------------------------------");
+            Console.WriteLine("");
+            Console.WriteLine("\t 1. Add User");
+            Console.WriteLine("");
+            Console.WriteLine("\t 2. Add Expense");
+            Console.WriteLine("");
+            Console.WriteLine("\t 3. Delete User");
+            Console.WriteLine("");
+            Console.WriteLine("\t 4. Delete Expense");
+            Console.WriteLine("");
+            Console.WriteLine("\t 5. Update Expense");
+            Console.WriteLine("");
+            Console.WriteLine("\t 6. View All Expenses for a User");
+            Console.WriteLine("");
+            Console.WriteLine("\t 7. View Expense Categories");
+            Console.WriteLine("");
+            Console.WriteLine("\t 8. Exit");
+            Console.WriteLine("");
+            Console.WriteLine("-------------------------------------------------------------------------------------------------------------");
             Console.Write("Enter your choice: ");
 
             string choice = Console.ReadLine();
