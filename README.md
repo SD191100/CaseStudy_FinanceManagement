@@ -7,14 +7,12 @@ A simple Finance Management Console Application .
 ## **Introduction**
 
 Finance Management app is a project that does something useful. It was created to solve managing expenses and finances.
-![consoleApp](ConsoleApp.png)
+---
 
+![ConsoleApp](ConsoleApp.png)
 
+---
 
-
-
-
-Output
 ![Output](OUTPUT.png)
 
 ## **Prerequisites**
