@@ -7,6 +7,7 @@ A simple Finance Management Console Application .
 ## **Introduction**
 
 Finance Management app is a project that does something useful. It was created to solve managing expenses and finances.
+![consoleApp](ConsoleApp.png)
 
 ## **Prerequisites**
 
@@ -25,4 +26,4 @@ To use Project Title, follow these steps:
 4. Run the project using program.cs Entry Point.
 5. Use the project as desired.
 
-![consoleApp](ConsoleApp.png)
+
