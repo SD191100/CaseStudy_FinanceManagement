@@ -22,3 +22,4 @@ C:\Users\shiva\source\repos\FinanceManagementSystem\Utility_Library\obj\Debug\ne
 C:\Users\shiva\source\repos\FinanceManagementSystem\Utility_Library\obj\Debug\net8.0\refint\Utility_Library.dll
 C:\Users\shiva\source\repos\FinanceManagementSystem\Utility_Library\obj\Debug\net8.0\Utility_Library.pdb
 C:\Users\shiva\source\repos\FinanceManagementSystem\Utility_Library\obj\Debug\net8.0\ref\Utility_Library.dll
+C:\Users\shiva\source\repos\FinanceManagementSystem\Utility_Library\obj\Debug\net8.0\Utility_Library.sourcelink.json
